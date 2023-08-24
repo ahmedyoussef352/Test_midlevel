@@ -1,0 +1,9 @@
+const String coverProfile = "assets/images/photo_2023-04-12_16-13-27.jpg";
+const String profile = "assets/images/person.jpeg";
+const String profile1 = "assets/images/profile1.jpeg";
+const String profile2 = "assets/images/profile2.jpeg";
+const String profile3 = "assets/images/profile3.jpeg";
+const String profile4 = "assets/images/profile4.jpeg";
+const String profile5 = "assets/images/profile5.jpeg";
+const String signPhoto = "assets/images/login.jpg";
+const String back = "assets/images/icon-01.jpg";
